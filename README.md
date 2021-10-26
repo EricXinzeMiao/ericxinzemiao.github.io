@@ -17,3 +17,9 @@ I drew some animals using only basic shapes. The fish is falling from the fish b
 ### Self Portrait
 I tried to draw myself in adobe illustrator. I was only allowed to use the pen tool. 
 ![1 -Miao-Eric-Self-Portrait-P1-1](https://user-images.githubusercontent.com/90816520/133560450-20786351-3a35-4cb2-983a-ff95d75186ab.jpg)
+### Logos
+I attempted to make some logos using a vector editor. It was mostly simple lines and shapes.
+![fft](https://user-images.githubusercontent.com/90816520/138819665-787adda7-ec92-4d1c-91bf-15894ad78c10.png)
+### Horror movie poster
+I tried to make a fake horror movie poster. I hope I did not break any trademark or copyright laws in doing so. If you are Nintento please don't sue me. 
+![unnamed](https://user-images.githubusercontent.com/90816520/138820035-3a6aefeb-1405-4ba7-8373-7283e049fd7e.jpg)
