@@ -23,3 +23,9 @@ I attempted to make some logos using a vector editor. It was mostly simple lines
 ### Horror movie poster
 I tried to make a fake horror movie poster. I hope I did not break any trademark or copyright laws in doing so. If you are Nintento please don't sue me. 
 ![unnamed](https://user-images.githubusercontent.com/90816520/138820035-3a6aefeb-1405-4ba7-8373-7283e049fd7e.jpg)
+### Photoshop Collage
+I made a collage using photoshop to learn how to mask objects. I also had to use some effects. 
+![a](https://user-images.githubusercontent.com/90816520/144990402-5983f430-6c01-4945-940e-79cb93c2a325.jpg)
+### Billboard Ad
+I created a billboard ad for a fake company I made up. Because the company is about free software, I made it in gimp instead of photoshop. 
+![2  Miao Eric Billboard Ad Period 1](https://user-images.githubusercontent.com/90816520/144990702-ade8e7e2-786a-4a42-b5d6-ebc789dbc6e4.jpg)
