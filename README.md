@@ -29,3 +29,15 @@ I made a collage using photoshop to learn how to mask objects. I also had to use
 ### Billboard Ad
 I created a billboard ad for a fake company I made up. Because the company is about free software, I made it in gimp instead of photoshop. 
 ![2  Miao Eric Billboard Ad Period 1](https://user-images.githubusercontent.com/90816520/144990702-ade8e7e2-786a-4a42-b5d6-ebc789dbc6e4.jpg)
+### Planner Cover
+With the help of a partner, this planner cover was made for our school. The rocket ships refer to how it used to be said that westview is secretly a missile silo. 
+![3  Group #19 WV Cover P 3-01](https://user-images.githubusercontent.com/90816520/150293592-42d15855-f6de-442c-ac39-7b96abcd2a3e.jpg)
+### Typeface
+I made a typeface which can be used on a computer. It was very fun. 
+![6 Eric-Miao-P1-Gross-Motor-Controls](https://user-images.githubusercontent.com/90816520/150308323-12a30d94-50f8-4101-93d0-837795d92ef5.jpg)
+### Packaging Graphics
+I made a package cover for google maps. Getting the background was a bit of a pain. 
+![image](https://user-images.githubusercontent.com/90816520/150308566-afe8b1e6-9bcb-4505-974e-4dc597839e85.png)
+### Album Cover
+I made an album cover for a fake band I made up. It is a rock band based on data vizualtion. 
+![1  Group 7_Record-Album-Mockup](https://user-images.githubusercontent.com/90816520/150308830-acd63218-02ff-43b1-8a4b-f7e13bba0d54.jpg)
